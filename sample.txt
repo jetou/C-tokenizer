@@ -1,0 +1,27 @@
+//comments
+
+int main()
+{
+	int a;
+	a = 10;
+	for(int i = 0;i < a;i = i + 1)
+	{
+		printf("%d",i);
+		printf("\n");
+	}
+
+	double c;
+	float $2sad = 06;
+	char m[100] = "a";
+	while(a != 3)
+	{
+		a = a - 1;
+	}
+	"asdadasdad;"
+	[ a + b;
+	(
+
+
+	%dsad = 5;
+	t = 5;
+}
