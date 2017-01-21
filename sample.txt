@@ -17,10 +17,9 @@ int main()
 	{
 		a = a - 1;
 	}
-	"asdadasdad;"
+	"asdadasdad;
 	[ a + b;
 	(
-
 
 	%dsad = 5;
 	t = 5;
