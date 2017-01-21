@@ -397,7 +397,7 @@ int relop_search(char *token)
 
 int op_search(char *token)
 {
-	int i, j, flag = -1, mat = 0, len = strlen(token);
+	int i, j=0, flag = -1, mat = 0, len = strlen(token);
 
 	for (i = 0; i < op_cnt; i++)
 	{
